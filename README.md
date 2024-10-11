@@ -55,4 +55,7 @@
   <a href="https://bit.ly/NoelKimLinkedin">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
+  <a href="https://pncss.notion.site/AI-7bef5f9650074f49b39367dd7c3555f7">
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />
+  </a>
 </div>
